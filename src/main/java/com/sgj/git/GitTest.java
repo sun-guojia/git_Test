@@ -13,5 +13,7 @@ public static void main(String[] args) {
     System.out.println("合并冲突2");
     System.out.println("合并冲突1");
     System.out.println("推送代码到远程库");
+    System.out.println("pull commit");
+   
     }
 }
